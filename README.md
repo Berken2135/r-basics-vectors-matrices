@@ -13,5 +13,5 @@ sorting with missing values, and essential matrix operations (addition, multipli
 
 ## How to Run
 ```bash
-Rscript main.R
+Rscript Livecoding1.R
 ```
